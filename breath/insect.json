@@ -1,0 +1,67 @@
+{
+  "id": "INSECT",
+  "text": "Дыхание насекомого (蟲むしの呼こ吸きゅう Mushi no kokyū?)[1] — дыхание, произошедшее от дыхания цветка.Этот стиль является личным творением Шинобу Кочо, которая разработала его, чтобы компенсировать свой недостаток физической силы. Основной целью стилей дыхания является нанесение ударов, толчков и нанесение мелких порезов с помощью специально покрытого меча, чтобы ввести различные смертельные яды на основе глицинии в намеченную цель.",
+  "text_en": "Insect Breathing (蟲むしの呼こ吸きゅう Mushi no kokyū?)[1] is a Breathing Style derived from Flower Breathing.nsect Breathing is a Breathing Style that mimics insects, specifically their lethal stings and movements, and replicates it with user's movements, techniques and abilities. Most, if not all, known techniques and forms include stabbing, thrusting, and making shallow cuts with a specially coated/made sword to inflict multiple wounds onto the intended target in order to inject various lethal Wisteria-based poisons into them. Users of Insect Breathing also visualize themselves seemingly manifesting insects (mainly butterflies) when unleashing its techniques.This Breathing Style is the personal creation of Shinobu Kocho, who designed it to compensate for her lack of physical strength to behead a demon. Hence, this sword style can only be utilized by her and only using a unique katana with a needle-like tip, resembling an insect's stinger in appearance and function. The stinger is designed for injection of Wisteria poison into demons.",
+  "text_es": "Insect Breath (蟲むしの呼こ吸きゅう Mushi no kokyū?)[1] es un aliento derivado del aliento de una flor.",
+  "text_ja": "蟲むしの呼こ吸きゅう（Mushi no kokyū）は、アニメ『鬼き滅めつのの刃やいば』に登とう場じょうする幾いくつかの呼こ吸きゅう法ほうの一ひとつである。由ゆ来らいは水みずの呼こ吸きゅう。",
+  "text_zh": "Insect Breath (虫むしの呼こ吸きゅう Mushi no kokyū?)[1] 是一种从花的呼吸中衍生出来的呼吸。这种风格是小蝶忍的个人创作，她为了弥补体力不足而开发的。 . 呼吸式的主要目的是用特殊涂层的剑进行打击、刺刺和小切口，以便将各种致命的紫藤毒药注入目标目标。",
+  "styles": [
+    {
+      "name": "Танец бабочек: Шалость (蝶ちょうノ舞まい 戯たわむれ Chō no mai: Tawamure?)[1] — мечник прыгает к противнику и совершает многочисленные надрезы, позволяющие ввести яд в его тело.",
+      "name_en": "Butterfly Dance: Caprice (蝶ちょうノ舞まい　戯たわむれ Chō no mai: Tawamure?)[2] - The user leaps into the air and charges towards the opponent and stings them multiple times with their blade to inject poison.",
+      "des_en": "Butterfly Dance: Caprice",
+      "maxTime": 1500,
+      "minTime": 100,
+      "power": 15,
+      "target": 90,
+      "energy": 0.1,
+      "des": "Танец бабочек: Шалость",
+      "none": true,
+      "des_es": "Butterfly Dance: Mischief",
+      "des_ja": "蝶ちょうノ舞まい　戯たわむれ ",
+      "des_zh": ""
+    },
+    {
+      "name": "Танец жалящей осы: Истинный взмах (蜂ほう牙がノ舞まい 真ま靡なびき Hōga no mai: Manabiki?)[2] — пользователь делает быстрый выпад и наносит врагу колющий удар.",
+      "name_en": "Dance of the Bee Sting: True Flutter (蜂ほう牙がノ舞まい　真ま靡なびき Hōga no mai: Manabiki?)[3] - The user dashes at their target at blinding speeds and uses the momentum of their speed to then strengthen a single thrust into their opponent and inject poison into them.",
+      "des_en": "Dance of the Bee Sting: True Flutter",
+      "maxTime": 1900,
+      "minTime": 900,
+      "power": 15,
+      "target": 180,
+      "energy": 0.1,
+      "des": "Танец жалящей осы: Истинный взмах",
+      "des_es": "Dance of the Stinging Wasp: True Slash",
+      "des_ja": "蜂ほう牙がノ舞まい　真ま靡なびき",
+      "des_zh": "刺蜂之舞：真扫"
+    },
+    {
+      "name": "Танец стрекозы: Фасетчатые глаза — шестигранник (蜻せい蛉れいノ舞まい 複ふく眼がん六ろっ角かく Seirei no mai: Fukugan rokkaku?)[3] — пользователь атакует противника в шесть различных частей тела, вводя в каждую смертельный яд.",
+      "name_en": "Dance of the Dragonfly: Compound Eye Hexagon (蜻せい蛉れいノ舞まい　複ふく眼がん六ろっ角かく Seirei no mai: Fukugan Rokkaku?)[4] - A six strike attack with which the user aims to strike and inject their target with multiple doses of poison at the target's weak spots (such as the neck, heart, torso, etc.) in order to kill them with a large dose of poison.",
+      "des_en": "Dance of the Dragonfly: Compound Eye Hexagon",
+      "maxTime": 1500,
+      "minTime": 400,
+      "power": 15,
+      "target": 180,
+      "energy": 0.1,
+      "des": "Танец стрекозы: Фасетчатые глаза — шестигранник",
+      "des_es": "Dragonfly Dance: Faceted Eyes - Hexagon",
+      "des_ja": "蜻せい蛉れいノ舞まい　複ふく眼がん六ろっ角かく",
+      "des_zh": "蜻蜓之舞：复眼-六角"
+    },
+    {
+      "name": "Танец многоножки: Извивающаяся многоножка (蜈ご蚣こうノ舞まい 百ひゃく足そく蛇じゃ腹ばら Gokō no mai: Hyakusoku jabara?)[4] — мечник бежит по зигзагообразной траектории, а затем совершает одиночный мощный удар, которым вводит в тело жертвы яд.",
+      "name_en": "Dance of the Centipede: Hundred-Legged Zigzag (蜈ご蚣こうノ舞まい　百ひゃく足そく蛇じゃ腹ばら Gokō no mai: Hyakusoku Jabara?)[5] - An attack with which the user uses their full speed to run a zigzag pattern that confuses their opponent in order to create an opening for them to directly stab their opponent's neck and inject poison to kill them, with the stab's force and power being further enhanced by the momentum of their speed. Doma noted that the sheer speed of this technique is strong enough to destroy an entire wooden bridge.",
+      "des_en": "Dance of the Centipede: Hundred-Legged Zigzag",
+      "maxTime": 3000,
+      "minTime": 300,
+      "power": 130,
+      "target": 120,
+      "energy": 0.1,
+      "des": "Танец многоножки: Извивающаяся многоножка",
+      "des_es": "Danza del Ciempiés: Ciempiés Retorcido",
+      "des_ja": "蜈ご蚣こうノ舞まい　百ひゃく足そく蛇じゃ腹ばら ",
+      "des_zh": "蜈蚣舞：蠕动的蜈蚣"
+    }
+  ]
+}

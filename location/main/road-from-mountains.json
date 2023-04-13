@@ -1,0 +1,23 @@
+{
+  "category": "way_of_slayer",
+  "idint": 2,
+  "seed": 1659457111101,
+  "max": 50,
+  "sma": 15,
+  "description_en": "The road from mountains. Your task is to kill as many demons as possible in order to earn as many points and money as possible.",
+  "spawnx": 40,
+  "description": "Дорога к основанию горы.Твоя задача убить как можно больше демонов ,чтобы заработать как можно больше очков и денег.",
+  "description_ja": "山のふもとへの道. あなたの仕事は、できるだけ多くのポイントとお金を稼ぐために、できるだけ多くの悪魔を殺すことです.",
+  "description_es": "El camino a la base de la montaña Tu tarea es matar tantos demonios como sea posible para ganar tantos puntos y dinero como sea posible.",
+  "description_zh": "通往山脚的道路。你的任务是杀死尽可能多的恶魔，以赚取尽可能多的积分和金钱。",
+  "spawny": 144,
+  "down": 1,
+  "rand": 2,
+  "score": 300,
+  "min": 150,
+  "money": 100,
+  "width": 1000,
+  "id": "road-from-mountains",
+  "down_b": true,
+  "height": 200
+}

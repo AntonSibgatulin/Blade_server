@@ -1,0 +1,125 @@
+{
+"players":[
+
+  {
+    "id":"shinobu",
+    "price":2000,
+    "score":1000,
+    "cards":"shinobu",
+    "count_of_cards":10,
+    "magicKey":1,
+    "type":0
+
+  },
+  {
+    "id":"nezuko",
+    "price":12000,
+    "score":1000,
+    "cards":"nezuko",
+    "count_of_cards":10,
+    "magicKey":1,
+    "type":0
+
+  },
+{
+"id":"inoske",
+"price":1400,
+"score":1000,
+"cards":"inoske",
+"count_of_cards":10,
+"magicKey":1,
+"type":0
+
+},
+{
+"id":"giyu",
+"price":1500,
+"score":1000,
+"cards":"giyu",
+"count_of_cards":10,
+"magicKey":1,
+"type":0
+
+},
+{
+"id":"rengoku",
+"price":1700,
+"score":1000,
+"cards":"rengoku",
+"count_of_cards":10,
+"magicKey":1,
+"type":0
+}
+,
+{
+"id":"tanjiro",
+"price":100,
+"score":1000,
+"cards":"tanjiro",
+"count_of_cards":10,
+"magicKey":1,
+"type":0
+
+},
+{
+"id":"zenitsu",
+"price":4000,
+"score":1000,
+"cards":"zenitsu",
+"count_of_cards":10,
+"magicKey":1,
+"type":0
+
+}
+
+
+
+
+
+],
+"money":[
+{
+"count":1000,
+"price":100,
+"magicKey":1
+},
+{
+"count":5000,
+"price":600,
+"magicKey":2
+}
+
+],
+
+
+
+"magicKey":[
+{"count":1,
+"price":50
+}
+
+],
+
+
+
+
+"box":[
+{
+"count":1,
+"price":300,
+"magicKey":5,
+"price_coin":10000
+},
+{
+"count":5,
+"price":1500,
+"price_coin":50000,
+"magicKey":5
+}
+]
+
+
+
+
+
+}

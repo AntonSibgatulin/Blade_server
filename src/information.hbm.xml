@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+        "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping package="com.AntonSibgatulin.Players">
+
+    <class name="Information" table="players">
+        <meta attribute="class-description">
+            This class contains the Information detail.
+        </meta>
+        <id name="id" type="int" column="id">
+
+        </id>
+        <property name="players" column="players" type="string"/>
+        <property name="userId" column="userId" type="int"/>
+    </class>
+</hibernate-mapping>

@@ -1,0 +1,70 @@
+{
+  "id": "running",
+  "type": [
+    {
+      "text": "Необходимо пройти или пробежать дистанцию в 250 метров для получения награды.",
+      "text_zh": "您必须步行或跑步 250 米的距离才能获得奖励。",
+      "text_en": "Must walk or run 250 yards to receive an award.",
+      "text_es": "Debes caminar o correr una distancia de 250 metros para recibir una recompensa.",
+      "text_ja": "報酬を受け取るには、250 メートルの距離を歩くか走る必要があります。",
+      "distance": 250,
+      "addscore": 5,
+      "addspeed": 0.1,
+      "addmoney": 10,
+      "addrun": 100,
+      "minscore": 10
+    },
+    {
+      "text": "Необходимо пройти или пробежать дистанцию в 1000 метров для получения награды.",
+      "text_en": "Must walk or run 1,000 yards to receive an award.",
+      "text_es": "Debes caminar o correr una distancia de 1000 metros para recibir una recompensa.",
+      "text_zh": "您必须步行或跑步 1000 米的距离才能获得奖励。",
+      "text_ja": "報酬を受け取るには、1000 メートルの距離を歩くか走る必要があります。",
+      "distance": 1000,
+      "addscore": 5,
+      "addspeed": 0.1,
+      "addmoney": 10,
+      "addrun": 100,
+      "minscore": 10
+    },
+    {
+      "text": "Необходимо пройти или пробежать дистанцию в 1500 метров для получения награды.",
+      "text_zh": "您必须步行或跑步 1500 米才能获得奖励。",
+      "text_en": "Must walk or run 1,500 yards to receive an award.",
+      "text_es": "Debes caminar o correr una distancia de 1500 metros para recibir una recompensa.",
+      "text_ja": "報酬を受け取るには、1500 メートルの距離を歩くか走る必要があります。",
+      "distance": 1500,
+      "addscore": 50,
+      "addspeed": 0.15,
+      "addmoney": 15,
+      "addrun": 100,
+      "minscore": 15
+    },
+    {
+      "text": "Необходимо пройти или пробежать дистанцию в 2500 метров для получения наград.",
+      "text_zh": "您必须步行或跑步 2500 米的距离才能获得奖励。",
+      "text_en": "Must walk or run 2,500 yards to receive an award.",
+      "text_es": "Debes caminar o correr una distancia de 2500 metros para recibir una recompensa.",
+      "text_ja": "報酬を受け取るには、2500 メートルの距離を歩くか走る必要があります。",
+      "distance": 2500,
+      "addscore": 135,
+      "addspeed": 0.2,
+      "addmoney": 30,
+      "addrun": 100,
+      "minscore": 65
+    },
+    {
+      "text": "Необходимо пройти или пробежать дистанцию в 3500 метров для получения награды.",
+      "text_zh": "需要步行或跑步3500米才能获得奖励。",
+      "text_en": "Must walk or run 3,500 yards to receive an award.",
+      "text_es": "Debes caminar o correr una distancia de 3500 metros para recibir una recompensa.",
+      "text_ja": "報酬を受け取るには、3500 メートルの距離を歩くか走る必要があります。",
+      "distance": 3500,
+      "addscore": 200,
+      "addspeed": 0.25,
+      "addmoney": 50,
+      "addrun": 150,
+      "minscore": 200
+    }
+  ]
+}

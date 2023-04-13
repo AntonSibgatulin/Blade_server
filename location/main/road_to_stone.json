@@ -1,0 +1,26 @@
+{
+  "highmoons": [
+    "rui"
+  ],
+  "category": "way_of_slayer",
+  "idint": 3,
+  "seed": 1659458093120,
+  "max": 50,
+  "sma": 14,
+  "description_en": "The road to the stone. Your task is to reach the stone and kill as many demons as possible in order to earn as many points and money as possible.",
+  "spawnx": 15,
+  "description": "Дорога до камня.Твоя задача дойти до камня и убить как можно больше демонов,чтобы заработать как можно больше очков и денег.",
+  "description_es": "El camino a la piedra Tu tarea es llegar a la piedra y matar tantos demonios como sea posible para ganar tantos puntos y dinero como sea posible.",
+  "description_ja": "石への道. あなたの仕事は、できるだけ多くのポイントとお金を稼ぐために、石にたどり着き、できるだけ多くの悪魔を殺すことです.",
+  "description_zh": "通往石头的道路 你的任务是到达石头并杀死尽可能多的恶魔，以赚取尽可能多的积分和金钱。",
+  "spawny": 174,
+  "down": 1,
+  "rand": 2,
+  "score": 300,
+  "min": 180,
+  "money": 150,
+  "width": 1400,
+  "id": "road_to_stone",
+  "down_b": true,
+  "height": 200
+}

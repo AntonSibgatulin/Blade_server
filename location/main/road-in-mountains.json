@@ -1,0 +1,23 @@
+{
+  "category": "way_of_slayer",
+  "idint": 1,
+  "seed": 1659457294305,
+  "max": 50,
+  "sma": 18,
+  "description_en": "The first road to the mountains. Your task is to kill as many demons as possible in order to earn as many points and money as possible.",
+  "spawnx": 18,
+  "description": "Первая дорога в горы.Твоя задача убить как можно больше демонов ,чтобы заработать как можно больше очков и денег.",
+  "description_es": "El primer camino a las montañas. Tu tarea es matar tantos demonios como sea posible para ganar tantos puntos y dinero como sea posible.",
+  "description_ja": "山への最初の道. あなたの仕事は、できるだけ多くのポイントとお金を稼ぐために、できるだけ多くの悪魔を殺すことです.",
+  "description_zh": "第一条山路。你的任务是尽可能多地杀死恶魔，以赚取尽可能多的积分和金钱。",
+  "spawny": 174,
+  "down": 1,
+  "rand": 2,
+  "score": 200,
+  "min": 180,
+  "money": 50,
+  "width": 400,
+  "id": "road-in-mountains",
+  "down_b": true,
+  "height": 200
+}
